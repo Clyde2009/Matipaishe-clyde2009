@@ -1,0 +1,104 @@
+.body { 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: url(paste.jpg) ;
+    
+
+
+}
+h1{
+    font-size: 70px;
+   background-color: blueviolet;
+     text-align:center;
+     margin-top: -18px;
+     color: azure;
+}		
+
+header {display:-moz-inline-box;
+        text-align: center;
+        
+        color: azure;}
+
+
+
+        .boys {
+            padding:10px;
+            display: inline;
+             ;
+            }
+
+        marquee{
+            scroll-snap-align: center;
+            scroll-snap-type: inline;
+            scroll-padding-inline-start:6px;
+            color: blueviolet;
+        }
+        
+        .boys:hover{ background-color: pink;
+        }
+        a{
+text-decoration: none;}
+
+
+
+    
+
+
+
+.dark {
+background-color:lightblue;
+}
+
+footer {
+
+    text-align: center;
+
+}
+
+form{
+
+    padding: 25px;
+    color:blue;
+    border:1px solid rgb(67, 26, 214);
+    
+}
+
+h2 {
+    background-color: blue;
+    color:whitesmoke;
+    padding: 5px;
+    border:1px solid rgb(67, 26, 214);
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    align-self: center;
+}
+
+.go{
+    color:white;
+    background-color:blue ;
+padding: 10px;
+
+}
+
+button:hover{
+    background-color: pink;
+}
+
+.social-media-button {
+    padding: 10px;
+    background-color: lightskyblue;
+    display:inline;
+    
+}
+ 
+.about {
+    background: url(table.jpg ) ;
+    padding: 5%;
+}
+
+.also {
+    background: url(h.jpg) no-repeat;
+}
