@@ -91,6 +91,8 @@ button:hover{
     padding: 10px;
     background-color: lightskyblue;
     display:inline;
+    align-items:center;
+    justify-content:center;
     
 }
  
