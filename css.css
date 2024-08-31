@@ -103,6 +103,7 @@ button:hover{
     padding: 5%;
 }
 
-.also {
-    background: url(h.jpg) no-repeat;
+.container {
+    display:flex;
+    justify-content:center;
 }
